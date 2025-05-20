@@ -1,4 +1,4 @@
-name: Build Quartz Site
+name: Build Wiki
 on:
   push:
     branches: ["main"]
