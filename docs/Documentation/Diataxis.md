@@ -11,7 +11,7 @@ types:
 * [[Reference]]
 * [[Explanation]]
 
-Diataxis was developed by Daniela Procida. The model divides documentation into
+The model divides documentation into
 four types:
 
 * How-to guides
